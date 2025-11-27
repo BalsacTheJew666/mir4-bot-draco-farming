@@ -1,0 +1,23 @@
+{
+  "game_path": "",
+  "auto_start": false,
+  "auto_mining": true,
+  "auto_quest": true,
+  "auto_resurrect": true,
+  "mining_zone": "bicheon_f1",
+  "mining_floor": 1,
+  "use_teleport": false,
+  "avoid_players": true,
+  "multi_client": false,
+  "max_clients": 3,
+  "anti_detection": true,
+  "hwid_spoof": false,
+  "log_level": "INFO",
+  "language": "en",
+  "hotkeys": {
+    "start": "F1",
+    "stop": "F2",
+    "pause": "F3",
+    "teleport_safe": "F4"
+  }
+}
